@@ -12,6 +12,6 @@ export default defineConfig({
 	},
 
   integrations: [react()],
-   site: 'https://yunagi0911.github.io',
-    base: '/Githubpage-test',
+  site: 'https://yunagi0911.github.io',
+  base: '/Githubpage-test',
 });
